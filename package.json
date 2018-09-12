@@ -1,0 +1,30 @@
+{
+  "name": "file-upload-meta",
+  "version": "1.0.0",
+  "description": "Apis and Microservices Projects - File Metadata Microservice (FCC Challenges)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "upload",
+    "Meta",
+    "checker",
+    "micro",
+    "services",
+    "api",
+    "node",
+    "js",
+    "FCC",
+    "challenge"
+  ],
+  "author": "Jay Shong",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.14",
+    "multer": "^1.3.1"
+  }
+}
