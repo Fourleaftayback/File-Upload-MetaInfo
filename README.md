@@ -10,5 +10,5 @@
 * Go to the main page, and upload a file using the provided form.
 
 ### Example of the working page 
-[File Upload Meta Info](https://glitch.com/~maddening-scallion)
+[File Upload Meta Info](https://maddening-scallion.glitch.me/)
 
